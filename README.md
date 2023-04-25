@@ -45,4 +45,5 @@ When asked about the status of a running job, foxrunner will answer with the fol
        "duration": (job duration in seg)
     }
     
+   
     
