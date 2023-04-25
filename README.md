@@ -3,7 +3,7 @@ TCP/IP Server to allow VFP code remote execution
 
 
 ## OBJECTIVE
-The idea is to allow VFP-based appps to run arbitrary code on a remote server and then query the result of the execution, using a REST-like interface.
+The idea is to allow any app to run arbitrary VFP code on a remote server and then query the result of the execution, using a REST-like interface.
 
 ## HOW IT WILL WORK
 
