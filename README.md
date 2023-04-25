@@ -39,6 +39,7 @@ When asked about the status of a running job, foxrunner will answer with the fol
     {
        "id'; "job unique id",
        "status": "queued | running | completed | failed",
+       "position": "Position of the job inside the execution queue",
        "errormsg": "Description of any error ocurred during job execution",
        "started": "date/time when job was started",
        "completed": "date/time when job was completed",
